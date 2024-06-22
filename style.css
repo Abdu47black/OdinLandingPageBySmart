@@ -115,6 +115,8 @@ a {
 }
 .quote-author {
   color: red;
+  margin-top: 2rem;
+  margin-left: 34rem;
 }
 .call-action {
   background-color: #3882f6;
